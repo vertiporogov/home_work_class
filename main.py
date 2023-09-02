@@ -2,7 +2,7 @@
 class Employee:
     '''Класс для представления сотрудника'''
 
-    raise_coef = 1.5
+    raise_coef = 1.6
 
     def __init__(self, name, surname, pay):
         self.name = name
