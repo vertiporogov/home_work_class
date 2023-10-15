@@ -62,7 +62,9 @@ import timeit
 t1 = timeit.timeit(p.get_set_del)
 t2 = timeit.timeit(ps.get_set_del)
 
-print(t1, t2)
+print(t1)
+print(t2)
+
 
 
 
